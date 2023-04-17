@@ -118,7 +118,7 @@ body {
     body {
         display: grid;
         overflow: hidden;
-        align-items: center;
+        margin-top: 12%;
         justify-content: center;
     }
     .container .top .ratings .rating  {
