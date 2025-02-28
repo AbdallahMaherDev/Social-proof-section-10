@@ -18,13 +18,13 @@ HTML5
 
 CSS3 (Flexbox & Grid for layout)
 
-git clone (https://fancy-queijadas-6abfe7.netlify.app/)
+git clone (https://github.com/AbdallahMaherDev/Social-proof-section-10)
 
 Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo (https://github.com/AbdallahMaherDev/Social-proof-section-10)
+Live Demo (https://fancy-queijadas-6abfe7.netlify.app/)
 
 📬 Contact
 
