@@ -2,7 +2,7 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a visually appealing and responsive testimonial section that showcases user reviews and ratings effectively.
+Hello! I'm Abdallah Maher, and this is a solution to the "Social proof section" challenge from Frontend Mentor. This project is a visually appealing and responsive testimonial section that showcases user reviews and ratings effectively.
 
 🚀 Features
 ✔️ Fully Responsive Design – Optimized for all screen sizes.
