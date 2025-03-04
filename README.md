@@ -2,21 +2,17 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a visually appealing and responsive testimonial section that showcases user reviews and ratings effectively.
 
 🚀 Features
+✔️ Fully Responsive Design – Optimized for all screen sizes.
+✔️ Clean & Modern Layout – Built using Flexbox & Grid for a structured design.
+✔️ Accessible & Well-structured Code – Ensures readability and usability.
 
-Responsive and accessible design
-
-Well-structured HTML & CSS
-
-Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
+HTML  /  CSS3 (Flexbox)
 
 Open index.html in your browser to view the component.
 
